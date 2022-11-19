@@ -18,14 +18,14 @@
         "imageURL": "https://cdn.shopify.com/s/files/1/0530/0617/2352/products/bluemesh1web_110x110@2x.jpg?v=1666836139",
         "price": 45.00,
         "description": " Material: 100% top-quality mesh, Two deep hem pockets",
-        "id": 2,
+        "id": 3,
         "name": "Royal Mesh Short"
       },
       {
         "imageURL": "https://cdn.shopify.com/s/files/1/0530/0617/2352/products/jaeesockweb_110x110@2x.jpg?v=1665775090",
         "price": 15.00,
         "description": "Material: Fully Woven, One Size fits all",
-        "id": 3,
+        "id": 4,
         "name": "JAEE Socks"
       }
     ]

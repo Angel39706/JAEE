@@ -12,7 +12,7 @@ final class NetworkManager {
     static let shared = NetworkManager()
     private let cache = NSCache<NSString, UIImage>()
        
-    static let baseURL = "https://raw.githubusercontent.com/Angel39706/JAEEClothing/main/"
+    static let baseURL = "https://raw.githubusercontent.com/Angel39706/JAEE/main/"
     private let JAEEURL =  baseURL + "JAEE.json"
     
     private init() {}
