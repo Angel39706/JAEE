@@ -1,29 +1,29 @@
 {
     "request": [
       {
-        "imageURL": "https://cdn.shopify.com/s/files/1/0530/0617/2352/products/creamjaeeteeweb3_110x110@2x.jpg?v=1665768879",
+        "imageURL": "https://cdn.shopify.com/s/files/1/0530/0617/2352/products/web2lux_1024x1024@2x.jpg?v=1675455311",
         "price": 50.00,
         "description": " Material: 100% Shrink-Free USA Cotton, OverSized Fit",
         "id": 1,
-        "name": "Cream Logo Tee"
+        "name": "White Logo Tee"
       },
       {
-        "imageURL": "https://cdn.shopify.com/s/files/1/0530/0617/2352/products/jaeemeshweb1_110x110@2x.jpg?v=1665770756",
-        "price": 45.00,
-        "description": " Material: 100% top-quality mesh, Two deep hem pockets",
+        "imageURL": "https://cdn.shopify.com/s/files/1/0530/0617/2352/products/onyxfront_1024x1024@2x.jpg?v=1675454750",
+        "price": 69.00,
+        "description": " Material: 100% Organic Cotton, Heavyweight, Embroidered Design",
         "id": 2,
-        "name": "Mesh Short"
+        "name": "Onyx Crewneck"
       },
       {
-        "imageURL": "https://cdn.shopify.com/s/files/1/0530/0617/2352/products/bluemesh1web_110x110@2x.jpg?v=1666836139",
-        "price": 45.00,
-        "description": " Material: 100% top-quality mesh, Two deep hem pockets",
+        "imageURL": "https://cdn.shopify.com/s/files/1/0530/0617/2352/products/web3lux_1024x1024@2x.jpg?v=1675453732",
+        "price": 79.00,
+        "description": " Material: 100% Organic Cotton, Embroidered Design, Adjustable ties",
         "id": 3,
-        "name": "Royal Mesh Short"
+        "name": "Ash Grey Sweatpants"
       },
       {
-        "imageURL": "https://cdn.shopify.com/s/files/1/0530/0617/2352/products/jaeesockweb_110x110@2x.jpg?v=1665775090",
-        "price": 15.00,
+        "imageURL": "https://cdn.shopify.com/s/files/1/0530/0617/2352/products/sockscreamwebbf_1024x1024@2x.jpg?v=1669319825",
+        "price": 20.00,
         "description": "Material: Fully Woven, One Size fits all",
         "id": 4,
         "name": "JAEE Socks"
